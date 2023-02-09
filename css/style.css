@@ -168,13 +168,13 @@
   text-transform: uppercase;
 }
 #wrap #main #section1 .container .slide-container .slide-view .slide-wrap .slide.slide1 {
-  background-image: url(../IMG/slider-img1.jpg);
+  background-image: url(../img/slider-img1.jpg);
 }
 #wrap #main #section1 .container .slide-container .slide-view .slide-wrap .slide.slide2 {
-  background-image: url(../IMG/slider-img2.jpg);
+  background-image: url(../img/slider-img2.jpg);
 }
 #wrap #main #section1 .container .slide-container .slide-view .slide-wrap .slide.slide3 {
-  background-image: url(../IMG/slider-img3.jpg);
+  background-image: url(../img/slider-img3.jpg);
 }
 @keyframes slide {
   0.00% {
